@@ -8,7 +8,19 @@ Turkish Checkers is a traditional board game that we developed as a part of a sc
 
 The objective of Turkish Checkers is to capture all of your opponent's pieces or block them in such a way that they cannot make any legal moves. The game is played on a 8x8 checkered board, and each player starts with 16 pieces of the same color (either black or white). In this game there are only 2 kind of pieces Soldiers and Kings. There are 16 Soldiers to a side, 8 each on the second and third rows to commence play. The soldiers move to the sides or straight forward but not diagonally or backward. Captures are made by jumping, either to the side or forward; the maximum number of pieces possible must be captured. Pieces are removed one by one when captured. To update a regular soldier to a king you need to reach the enemy base whitch is the first row of the other player. The king can move one square in all possible directions). 
 
+### Moves
 
+   Soldiers Moves
+
+   ![readmeimages](SoldierMove.png)
+
+   Soldiers Capture
+   
+   ![readmeimages](beforecapture.png) -> ![readmeimages](aftercapture.png)
+
+   King Moves
+
+   ![readmeimages](kingmoves.png)
 
 
 ### Capturing
@@ -27,23 +39,14 @@ The game ends when:
 
 As of now, the installation process for Turkish Checkers is manual and straightforward. Follow the steps below to set up the game on your device:
 
-1. **Download the Game Files:**
-   - You can obtain the game files from the GitHub repository or download a ZIP archive of the project.
-
-2. **Extract the Files:**
-   - If you downloaded a ZIP archive, extract its contents to a location of your choice on your computer.
-
-3. **Launch the Game:**
-   - Locate the main game executable file (e.g., `turkish_checkers.exe` or `turkish_checkers.py`).
-   - Double-click the executable file to launch the game.
-
-4. **Enjoy the Game:**
-   - Once the game is launched, follow the on-screen instructions to start playing Turkish Checkers.
-   - Invite a friend to play with you, or you can also play against an AI opponent.
+1. Clone this repository.
+2. Make sure you have EclipseIDE installed with JavaFX ([Here](https://www.youtube.com/watch?v=mUbORGu-z6Q) is a quick video how to add JavaFX on Ecliplse)
+3. Make sure you update the projects library with the JavaFX one.
+4. Run the program on Eclipse.
 
 ## Note
 
 Turkish Checkers is a work in progress, and we are continuously improving it based on feedback and suggestions. If you encounter any issues or have ideas for enhancing the game, please feel free to reach out to us. Your feedback is valuable to us!
 
-Thank you for choosing Turkish Checkers. Have fun and enjoy this traditional board game!
+Have fun and enjoy this traditional board game!
 
