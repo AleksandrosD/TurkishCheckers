@@ -16,7 +16,7 @@ The objective of Turkish Checkers is to capture all of your opponent's pieces or
 
    Soldiers Capture
    
-   ![readmeimages](readmeimages/beforecapture.PNG) -> ![readmeimages](readmeimages/aftercapture.PNG)
+   ![readmeimages](readmeimages/beforecapute.PNG) -> ![readmeimages](readmeimages/aftercapure.PNG)
 
    King Moves
 
